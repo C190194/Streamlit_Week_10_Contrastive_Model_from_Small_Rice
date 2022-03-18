@@ -1,0 +1,2 @@
+Model,	Fan,	Gearbox,	Slider,	ToyTrain,	ToyCar,	Pump,	Valve,	Avg
+Contrastive Model                ,	61.79,	58.62,	60.52,	51.34,	52.36,	56.85,	54.26,	56.53
